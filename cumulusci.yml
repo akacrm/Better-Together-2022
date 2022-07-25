@@ -4,8 +4,7 @@ project:
     package:
         name: Better-Together-2022
         api_version: '55.0'
-    dependencies:
-        - github: 'https://github.com/SalesforceFoundation/EDA'
+   
     git:
         default_branch: 'main'
         prefix_feature: 'feature/'
